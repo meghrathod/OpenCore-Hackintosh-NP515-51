@@ -16,16 +16,6 @@
 
 
 ## Summary
-#### Non-Fuctional
-
-| Feature                              | Status | Dependency          |
-| :----------------------------------- | ------ | ------------------- |
-| WiFi                                 | ❌    | Qualcomm Wifi card has to be replaced  |
-| Fingerprint Reader                   | ❌    | macOS doesn't support non-native Touch ID |
-| AirDrop, Continuity and Handoff      | ❌    | Non-native Wifi Card  |
-| Nvidia GTX 1050 4GB                  | ❌    | Unsupported by macOS Monterey  |
-
-
 
 #### Video and Audio
 
@@ -70,6 +60,15 @@
 | iCloud, iMessage, FaceTime           | ✅   | Whitelisted Apple ID, Valid SMBIOS  |
 | Time Machine                         | ✅   | Native  |
 
+
+#### Non-Fuctional
+
+| Feature                              | Status | Dependency          |
+| :----------------------------------- | ------ | ------------------- |
+| WiFi                                 | ❌    | Qualcomm Wifi card has to be replaced  |
+| Fingerprint Reader                   | ❌    | macOS doesn't support non-native Touch ID |
+| AirDrop, Continuity and Handoff      | ❌    | Non-native Wifi Card  |
+| Nvidia GTX 1050 4GB                  | ❌    | Unsupported by macOS Monterey  |
 
 
 ## References

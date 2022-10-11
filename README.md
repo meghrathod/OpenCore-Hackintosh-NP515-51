@@ -5,6 +5,9 @@
 [![MacOS Monterey](https://img.shields.io/badge/Monterey-12.0-purple.svg)](https://www.apple.com/macos/monterey-preview/)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.7.1-blue.svg)](https://github.com/acidanthera/OpenCorePkg/releases/latest)
 
+## As of 11th Oct 2022, this repo is archived as I have moved on to a real MacBook as it's the best way to experience macOS after years of creating successful hackintosh installs. Again the Mac just works. 
+
+Feel free to fork and continue this repo if you end up with this same config.
 
 ## READ THE ENTIRE README.MD BEFORE YOU START
 
